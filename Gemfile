@@ -36,6 +36,9 @@ gem 'rmagick'
 gem 'stripe'
 gem 'faker'
 
+# PostgreSQL
+gem 'pg'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
